@@ -29,7 +29,6 @@ import android.content.res.Resources
 
 import com.google.android.gms.maps.model.MapStyleOptions
 
-
 class MapsActivity : AppCompatActivity(), OnMapReadyCallback {
 
     private lateinit var mMap: GoogleMap
